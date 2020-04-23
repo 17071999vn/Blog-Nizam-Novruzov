@@ -1,0 +1,38 @@
+body {
+
+border:30px solid #bdc3c7;
+padding:25px;
+width:720px;
+margin:25px auto; 
+font-family: 'Source Sans Pro', sans-serif; 
+
+}
+h2{
+text-align: center;
+	color:#2c3e50;
+	font-size: 2.0rem;
+}
+
+
+.date{
+
+	color:#3498db;
+	text-transform: uppercase;
+	
+
+}
+
+.article {
+
+	margin-bottom:10px;
+}
+
+
+
+.citation{
+
+	border-left:2px solid #bdc3c7 ;
+	padding-left: 5px;
+} 
+
+
